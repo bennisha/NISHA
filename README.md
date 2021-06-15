@@ -1,5 +1,4 @@
-# THE SPARKS FOUNDATION - INTERNSHIP
-# TOPIC : BASIC BANKING SYSTEM
-This is a website of a Basic Banking System developed with HTML,CSS and PHP with basic transfer details and a task of the GRIP at Spark Foundation Internship created by NISHANTHINI B.
+https://github.com/shraddha635/Banksite
 
-It can simply transfer money between multiple users. A dummy data is created in the database for upto 10 customers. A customer table stores the data of the 10 customers while the transaction table has the transaction history for the transactions that take place between the customers.A user can transfer money from one account to another, view the list of customers and also check the transaction history.
+
+Basic Banking System Website for The Sparks Foundation Internship this is a simple credit management system given in sparks foundation internship program. There are 10 dummy users which are used to transfer credits between them and show the transaction history.
